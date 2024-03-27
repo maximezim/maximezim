@@ -1,4 +1,4 @@
-<div align="center">Hi there ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></div>
+## <div align="center">Hi there ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></div>
 
 
 My name is Maxime, I'm currently enrolled in Software Engineering and Cybersecurity
